@@ -1,0 +1,63 @@
+{
+  "_moment-DSyHOE4U.js": {
+    "file": "assets/moment-DSyHOE4U.js",
+    "name": "moment"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.eot": {
+    "file": "assets/materialdesignicons-webfont-CSr8KVlo.eot",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.eot"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf": {
+    "file": "assets/materialdesignicons-webfont-B7mPwVP_.ttf",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff": {
+    "file": "assets/materialdesignicons-webfont-PXm3-2wK.woff",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff2": {
+    "file": "assets/materialdesignicons-webfont-Dp5v-WZN.woff2",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff2"
+  },
+  "resources/css/tailwind.css": {
+    "file": "assets/tailwind--u3l48-w.css",
+    "src": "resources/css/tailwind.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-kSguke7z.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "vue/app.js": {
+    "file": "assets/app-Cfo6bWPE.js",
+    "name": "app",
+    "src": "vue/app.js",
+    "isEntry": true,
+    "imports": [
+      "_moment-DSyHOE4U.js"
+    ],
+    "css": [
+      "assets/app-Ci0R6KGr.css"
+    ],
+    "assets": [
+      "assets/materialdesignicons-webfont-CSr8KVlo.eot",
+      "assets/materialdesignicons-webfont-Dp5v-WZN.woff2",
+      "assets/materialdesignicons-webfont-PXm3-2wK.woff",
+      "assets/materialdesignicons-webfont-B7mPwVP_.ttf"
+    ]
+  },
+  "vue_components/components.js": {
+    "file": "assets/components-BQD62jYW.js",
+    "name": "components",
+    "src": "vue_components/components.js",
+    "isEntry": true,
+    "imports": [
+      "_moment-DSyHOE4U.js"
+    ],
+    "css": [
+      "assets/components-DPuqjWAq.css"
+    ]
+  }
+}
